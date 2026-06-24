@@ -26,7 +26,7 @@ GestureCanvas is a real-time computer vision-based virtual drawing system that e
 ---
 
 ## Project Structure
-
+```
 gesture-canvas/
 ├── src/
 │   ├── __init__.py
@@ -36,28 +36,31 @@ gesture-canvas/
 ├── app.py
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## Installation
 
 ### Clone the repository
+```
 git clone https://github.com/samoff04/GestureCanvas.git
 cd GestureCanvas
-
+```
 ### Create virtual environment
+```
 python -m venv venv
 venv\Scripts\activate
-
+```
 ### Install dependencies
+```
 pip install -r requirements.txt
-
+```
 ---
 
 ## How to Run
-
+```
 python app.py
-
+```
 ---
 
 ## Controls

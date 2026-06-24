@@ -1,6 +1,6 @@
-# GestureCanvas AI
+# GestureCanvas
 
-GestureCanvas AI is a real-time computer vision-based virtual drawing system that enables users to draw in the air using hand gestures. It uses MediaPipe for real-time hand landmark detection and OpenCV for rendering a virtual canvas. The system tracks the index finger movement and converts it into smooth digital strokes displayed on screen.
+GestureCanvas is a real-time computer vision-based virtual drawing system that enables users to draw in the air using hand gestures. It uses MediaPipe for real-time hand landmark detection and OpenCV for rendering a virtual canvas. The system tracks the index finger movement and converts it into smooth digital strokes displayed on screen.
 
 ---
 
